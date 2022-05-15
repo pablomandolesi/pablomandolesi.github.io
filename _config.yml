@@ -75,7 +75,7 @@ plugins:
 author:
   name   : "Pablo Mandolesi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ingeniero Agrónomo especializado en teledetección y GIS, aprendiendo Python."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
