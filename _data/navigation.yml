@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Quick Start"
-    url: /quick/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "About"
     url: /about/
